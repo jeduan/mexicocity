@@ -1,20 +1,15 @@
-beerjspaloalto
+Chelajs Ciudad de México
 ============
 
-## next meetup
-Check [Issues](https://github.com/beerjs/paloalto/issues/) for the latest
+## siguiente reunión
+Revisa los [Issues](https://github.com/jeduan/mexicocity/issues/) para la última reunión
 
-## about
+## acerca de
 
-```js
-require('beer')
-require('javascript')
-developers.filter((dev) => { return distance(dev.loc, paloAlto.loc) < 20; }).forEach(inviteForBeer);
-// frequent, informal discussions of various things javascript in a beer-enriched environment.
-// 'cause the city's too far, and CalTrain stops running too early.
-```
+Una reunión donde developers se reunen a tomar javascript para hablar del mejor lenguaje de hoy en dia: cerveza
 
-We meet monthly at Rose & Crown. We have a [group on Meetup](http://www.meetup.com/beer-js-palo-alto/). Open a GitHub issue to propose a meetup, ask questions of the group, or general discussion.
+Las reuniones son mensuales. [Registrate en boletia](http://chelajs.boletia.com). Abre un issue de Github para proponer una reunión, haz preguntas o discute.
 
-## contact
-Email jason@denizac.org or Twitter @_jden
+## contacto
+siedrix@gmail.com o @siedix
+jeduan@gmail.com o @jeduan
